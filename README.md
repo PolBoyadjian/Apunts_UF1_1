@@ -71,3 +71,14 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - Perfectiu: És millora la funcionalitat
   - Evolotiu: S'afageix funcions noves
   - Adaptiu: S'adapta a nous entorns
+
+# Models de desenvolupament de Software
+
+- Models clasics
+  - Model en cascada
+  - Model en V
+- Model de construcció de prototius
+- Model evolutius o incrementals
+  - Model en espiral
+  - Metodologíes àgils
+  
