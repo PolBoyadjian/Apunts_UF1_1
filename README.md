@@ -36,3 +36,30 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 
 - Codi font: Arxiu de text legible escrit en un llenguatge de programació
 - Codi objecte: Arxiu binari no executable
+- Codi executable: Arxiu binari executable
+
+# Cicle de vida del Software
+
+## Desenvolupament del Software
+
+- Anàlisis
+- Diseny
+- Codificació
+- Proves
+- Mantaniment
+
+## Anàlisis
+
+- És determina i és definex les necessitats del client i especifica els requisits que deu complir el software
+
+## Diseny
+
+- És determina els components que poden ser desenvolupats per seperat
+
+## Codificació
+
+- S'ecriu el codi font de cada component
+
+## Proves
+
+- 
