@@ -62,4 +62,9 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 
 ## Proves
 
-- 
+- L'objectiu és aconseguir que el programa funcioni incorrectament i es descobreixin fallos
+
+## Mantaniment
+
+- És necessari realitzar canvis ocasionals
+  - Correctiu
