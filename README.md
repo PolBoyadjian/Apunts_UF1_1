@@ -67,4 +67,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 ## Mantaniment
 
 - És necessari realitzar canvis ocasionals
-  - Correctiu
+  - Correctiu: És corregeixen defectes
+  - Perfectiu: És millora la funcionalitat
+  - Evolotiu: S'afageix funcions noves
+  - Adaptiu: S'adapta a nous entorns
