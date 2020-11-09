@@ -82,3 +82,6 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - Model en espiral
   - Metodologíes àgils
   
+## Model en cascada
+
+- 
