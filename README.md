@@ -67,4 +67,70 @@
   
 ## Model en cascada
 
-- 
+- Model de major antiguitat
+- Les fases s'han de realitzar en l'ordre indicat
+- El resultat de una fase es la entrada de la següent
+- És un model rígit que no se adapta el canvi continuo
+
+## Model en V
+
+- Model jerarquic amb diferents nivells
+- Els nivells superiors indican major abstracció i els inferiors indican major nivell de detall
+
+## Prototips
+
+- Moltes vegades els regquisits no están especificats:
+ - Per no existir experencia previa
+ - Per omisió o falta de concretació del usurai/client
+- Es crea un prototip duran la fase de anàlisis i es prova per l' usuari/client
+-Tipus de prototips
+ - Prototips ràpids
+  -El prototip pot estar desenvolupat utilitzant un altre llenguatje o eina
+  - Finalment el protips es tira
+ -Prototips evolotius
+  - Esta disenyat en el mateix llenguatje i enga que del projecte
+  - El prototis s'utilitza com a base
+## Model en espiral
+
+- En el model en espiral sempre s'ha de tenir la confirmació del client per poder avançar
+
+## Metodologies agils
+
+- Metodes de ingenieria del software basats en el desenvolupament iteratiu e incremental
+- Els requisits i solucions evolocionen amb la necessitat del projecte
+- El treball es realitza amb la colaboració d' equips auto-organitzats i multidisciplinaris
+- Les metodologies mes conegudes són:
+ - Kanban
+ - Scrum
+ -XP (eXtreme Programming)
+ 
+# Llenguatge de programació
+
+## Codi executable
+
+- Compila o interpreta
+ - Compila/interpreta del codi font es fa:
+  - Anàlisis léxic
+  - Anàlisis sintactic
+ - Un codi font correctament escrit no significa que funcioni segons lo desitjat
+ - No es realitza un alàlisis semantic
+ 
+## Llenguatjes compilats
+
+- Exemples
+ - C
+ - C++
+- Ventatja:
+ - Execució molt eficient
+- Desventatja:
+ - Es necesari compilar cada vegada que el codi font es modifiqui
+ 
+## Llenguatje interpretat
+
+- Exemples
+ -PHP
+ -Javascripts
+- Ventatja
+ - El codi font s'interpreta directament
+- Desventatja
+ - Execució menys eficient
