@@ -145,3 +145,17 @@
  - Buna documentació i base d'usuaris
 - Desventatjes:
  - Menys eficient que lleguatjes compilats
+
+## Tipus
+- Segons la forma en la que operan:
+ - Declaratius: Indiquem el resultat a obtenir sense especifiar els pasos
+  - Lógics: Utilitza normes (Prolog)
+  - Funcionals: Utilitza funcions (Lisp, Haskell)
+  - Algebraics: Utilitza sentencies (SQL)
+ - Normalment son lleguatjes interpretats
+ - Imperatius: Indiquem els pasos a seguir per obtenir el resultat
+  - Estructurats: (C)
+  - Orientat a objectes: (Java)
+  - Multiparadigma: (C++, Javascript)
+ - Llenguatjes orientats a objectes son també lleguatjes estructurats
+ - Molts son compilats
