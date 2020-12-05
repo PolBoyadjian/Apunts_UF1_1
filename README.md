@@ -159,3 +159,7 @@
   - Multiparadigma: (C++, Javascript)
  - Llenguatjes orientats a objectes son també lleguatjes estructurats
  - Molts son compilats
+ - Abstracció
+  - Baix nivell: Ensamblador
+  - Mitj nivell: C
+  - Alt nivell: C++, Java
