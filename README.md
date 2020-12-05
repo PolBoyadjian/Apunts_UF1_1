@@ -134,3 +134,14 @@
  - El codi font s'interpreta directament
 - Desventatja
  - Execució menys eficient
+
+## Java
+- Llenguatje compilat e interpretat
+- Codi font Java es compila i s'obte un bytecode
+- Després el bytecode s'interpreta per executarlo
+- Ventatjes:
+ - Estructurat i orientada a objectes
+ - Facil d'apredre
+ - Buna documentació i base d'usuaris
+- Desventatjes:
+ - Menys eficient que lleguatjes compilats
